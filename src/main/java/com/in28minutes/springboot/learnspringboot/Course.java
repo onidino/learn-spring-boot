@@ -1,5 +1,8 @@
 package com.in28minutes.springboot.learnspringboot;
 
+/**
+ * Course class
+ */
 public class Course {
 
   private final Long id;
