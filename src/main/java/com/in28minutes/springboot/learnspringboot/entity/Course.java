@@ -1,4 +1,4 @@
-package com.in28minutes.springboot.learnspringboot;
+package com.in28minutes.springboot.learnspringboot.entity;
 
 /**
  * Course class

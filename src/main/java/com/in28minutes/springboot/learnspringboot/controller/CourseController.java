@@ -1,5 +1,6 @@
-package com.in28minutes.springboot.learnspringboot;
+package com.in28minutes.springboot.learnspringboot.controller;
 
+import com.in28minutes.springboot.learnspringboot.entity.Course;
 import java.util.Arrays;
 import java.util.List;
 import org.springframework.web.bind.annotation.RequestMapping;
